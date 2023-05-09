@@ -12,4 +12,3 @@
 ## explanation
 - In the **'Linear Algebra'** folder, there is a pdf that was organized after listening to the linear algebra lecture.
 - In the **'NLP'** folder, there are pdf files compiled after listening to natural language processing lectures.
-- In the **'Paper'** folder, there are pdfs that have been read and organized.
