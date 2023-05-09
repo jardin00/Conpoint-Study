@@ -1,5 +1,6 @@
 # Conpoint Study
-
+- Record study group activities
+- Refer to other materials (books, internet, etc.)
 ## Study period
 - 2022.12 ~
 ## Study Objective
